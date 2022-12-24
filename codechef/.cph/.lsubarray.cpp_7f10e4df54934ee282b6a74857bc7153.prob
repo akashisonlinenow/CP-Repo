@@ -1,0 +1,1 @@
+{"name":"Local: lsubarray","url":"c:\\Users\\akash\\CP\\codechef\\lsubarray.cpp","tests":[{"id":1671031018838,"input":"3\n3\n1 2 4\n3\n1 3 2\n4\n2 3 4 7","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\akash\\CP\\codechef\\lsubarray.cpp","group":"local","local":true}
